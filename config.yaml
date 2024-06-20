@@ -1,3 +1,8 @@
 module:
   hugoVersion:
     min: "0.84.0"
+params:
+  read_more_copy: "Czytaj dalej"
+  ananke_socials:
+    - name: github
+      url: https://github.com/kudzik/
